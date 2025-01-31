@@ -1,6 +1,4 @@
 ﻿numpy
 streamlit
-pickle
-os
 scikit-learn
 
